@@ -4,6 +4,8 @@ vless://163bb0e4-97d8-439a-ba14-fc5a84ca6acb@xiaocaitou.eu.org:7306?encryption=n
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFsaWVuIiwNCiAgImFkZCI6ICJid2cuZGVubnlkb25nLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiNzg4YWEyOC1jMWVmLTQzODAtYjFiOS0yZDY1ZTlhZWM3NmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
+trojan://b345dea8-d232-4aa5-8bec-517f78f986e3@20.222.84.185:443?sni=certificate.telelink.cc#%e5%80%be%e5%9f%8e%e6%9e%81%e9%80%9f.tk-%f0%9f%87%af%f0%9f%87%b5JP-Openit.ml
+
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE1OC4yNDcuMjA2LjE5OjczMDc=#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDM4Ljc1LjEzNy43MTo3MzA2#%f0%9f%87%ba%f0%9f%87%b8_US_%e7%be%8e%e5%9b%bd
